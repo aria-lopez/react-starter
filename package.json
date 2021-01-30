@@ -1,10 +1,10 @@
 {
-  "name": "movie-browser",
+  "name": "project-name",
   "version": "1.1.0",
-  "description": "HRSF77/78 Review: Movie Browser",
-  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
+  "description": "description",
+  "author": "your-name",
   "license": "UNLICENSED",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "nodemon server/index.js",
     "react-dev": "webpack -d --watch"
@@ -17,7 +17,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.2.0",
-    "styled-components": "^5.2.1",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.11.6",
